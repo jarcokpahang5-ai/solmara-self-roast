@@ -11,7 +11,7 @@ from pathlib import Path
 
 # The entry: one line roasting my own agent.
 ENTRY = (
-    "My agent called seven tools, read three docs, and answered a "
+    "My agent called seven tools, read three docs, then answered a "
     "question I never asked \u2014 confidently, in bold, with a footnote."
 )
 
